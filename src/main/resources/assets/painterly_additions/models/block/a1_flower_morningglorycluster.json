@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "painterly_additions:blocks/a1-flower-morningglorycluster",
+    "particle": "painterly_additions:blocks/a1-flower-morningglorycluster"
+  },
+  "render_type": "cutout"
+}

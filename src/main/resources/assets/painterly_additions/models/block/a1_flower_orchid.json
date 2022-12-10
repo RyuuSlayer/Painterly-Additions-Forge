@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "painterly_additions:blocks/a1-flower-orchid",
+    "particle": "painterly_additions:blocks/a1-flower-orchid"
+  },
+  "render_type": "cutout"
+}

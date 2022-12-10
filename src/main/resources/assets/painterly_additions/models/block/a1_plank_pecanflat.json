@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "painterly_additions:blocks/a1-plank-pecanflat",
+    "particle": "painterly_additions:blocks/a1-plank-pecanflat"
+  },
+  "render_type": "solid"
+}

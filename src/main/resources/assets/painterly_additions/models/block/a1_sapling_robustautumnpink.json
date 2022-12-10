@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "painterly_additions:blocks/a1-sapling-robustautumnpink",
+    "particle": "painterly_additions:blocks/a1-sapling-robustautumnpink"
+  },
+  "render_type": "cutout"
+}

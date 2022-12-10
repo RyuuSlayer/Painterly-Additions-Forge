@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "painterly_additions:blocks/a1-flower-tulipsimplepink",
+    "particle": "painterly_additions:blocks/a1-flower-tulipsimplepink"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "painterly_additions:blocks/a1-sapling-birchautumn",
+    "particle": "painterly_additions:blocks/a1-sapling-birchautumn"
+  },
+  "render_type": "cutout"
+}

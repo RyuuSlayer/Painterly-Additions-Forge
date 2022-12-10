@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "painterly_additions:block/a1_tallflower_creeperstatuegreenclassic"
+    },
+    "half=lower": {
+      "model": "painterly_additions:block/a1_tallflower_creeperstatuegreenclassic_bottom"
+    }
+  }
+}

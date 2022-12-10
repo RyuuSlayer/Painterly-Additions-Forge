@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "painterly_additions:blocks/a1-mushroom-redmario",
+    "particle": "painterly_additions:blocks/a1-mushroom-redmario"
+  },
+  "render_type": "cutout"
+}

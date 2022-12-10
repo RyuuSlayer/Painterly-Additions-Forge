@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "painterly_additions:blocks/a1-plank-whiteplanksmall",
+    "particle": "painterly_additions:blocks/a1-plank-whiteplanksmall"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "painterly_additions:blocks/a1-plank-agedcratefancy",
+    "particle": "painterly_additions:blocks/a1-plank-agedcratefancy"
+  },
+  "render_type": "solid"
+}

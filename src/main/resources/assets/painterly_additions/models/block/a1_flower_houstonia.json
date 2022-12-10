@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "painterly_additions:blocks/a1-flower-houstonia",
+    "particle": "painterly_additions:blocks/a1-flower-houstonia"
+  },
+  "render_type": "cutout"
+}

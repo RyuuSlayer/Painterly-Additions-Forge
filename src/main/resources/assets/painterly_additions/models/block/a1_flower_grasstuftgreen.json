@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "painterly_additions:blocks/a1-flower-echinaceafield",
+    "particle": "painterly_additions:blocks/a1-flower-echinaceafield"
+  },
+  "render_type": "cutout"
+}

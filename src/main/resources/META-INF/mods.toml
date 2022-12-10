@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="painterly_additions"
+version="1.1.0-1.19.2"
+displayName="Painterly Additions"
+credits="Created by Ryuu, textures by Rhodox."
+displayURL="https://ryuum3gum1n.de"
+logoFile="pack.png"
+authors="Ryuu, Rhodox"
+description='''
+Preserving all the blocks, items & mobs of the famous Painterly Pack by Rhodox, as a mod.
+'''
+
+[[dependencies.painterly_additions]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.19.2]"
+ordering="NONE"
+side="BOTH"

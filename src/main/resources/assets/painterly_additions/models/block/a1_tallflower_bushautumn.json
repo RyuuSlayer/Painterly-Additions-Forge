@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "painterly_additions:blocks/a1-tallflowertop-bushautumn",
+    "particle": "painterly_additions:blocks/a1-tallflowertop-bushautumn"
+  },
+  "render_type": "cutout"
+}

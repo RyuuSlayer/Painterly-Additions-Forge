@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "painterly_additions:blocks/a1-flower-marigold"
+  }
+}

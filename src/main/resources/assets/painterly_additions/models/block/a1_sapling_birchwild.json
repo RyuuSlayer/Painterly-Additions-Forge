@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "painterly_additions:blocks/a1-sapling-birchwild",
+    "particle": "painterly_additions:blocks/a1-sapling-birchwild"
+  },
+  "render_type": "cutout"
+}

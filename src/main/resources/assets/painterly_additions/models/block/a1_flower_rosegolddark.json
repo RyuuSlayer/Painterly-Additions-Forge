@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "painterly_additions:blocks/a1-flower-rosegolddark",
+    "particle": "painterly_additions:blocks/a1-flower-rosegolddark"
+  },
+  "render_type": "cutout"
+}

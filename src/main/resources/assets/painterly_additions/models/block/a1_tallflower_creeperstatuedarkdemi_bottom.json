@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "painterly_additions:blocks/a1-tallflowerbottom-creeperstatuedarkdemi",
+    "particle": "painterly_additions:blocks/a1-tallflowerbottom-creeperstatuedarkdemi"
+  },
+  "render_type": "cutout"
+}
